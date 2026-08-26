@@ -26,5 +26,5 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add nochuri_feed.xml
-          git diff --staged --quiet || git commit -m "RSSフィードを自動更新 [skip ci]"
+          git commit -m "RSSフィードを自動更新 [skip ci]" || echo "変更なし"
           git push
