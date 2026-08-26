@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>農林中金総合研究所 レポートRSS（経済・金融）</title>
+    <link>https://www.nochuri.co.jp/report/financial/</link>
+    <description>農林中金総合研究所が公開する経済・金融分野のレポート更新情報です。</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>ja</language>
+    <lastBuildDate>Wed, 26 Aug 2026 08:07:48 +0000</lastBuildDate>
+    <item>
+      <title>経済金融フラッシュ26-25 「（中国）7月の企業マインドは製造業・非製造業ともに悪化」712.0KB</title>
+      <link>https://www.nochuri.co.jp/weekly/pdf/flash20260803.pdf</link>
+      <description>編著者王雷軒（Wang Leixuan） のレポート（2026/08/03） [媒体: 媒体経済金融フラッシュ]</description>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>経済金融フラッシュ26-26 「（米国）好調な7月ISM指数、疑問が残る7月FOMC」665.9KB</title>
+      <link>https://www.nochuri.co.jp/weekly/pdf/flash20260806.pdf</link>
+      <description>編著者佐古佳史 のレポート（2026/08/06） [媒体: 媒体経済金融フラッシュ]</description>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>経済金融フォーカス26-03　「2026年7月の党中央政治局会議のポイント ～経済情勢判断と今後の政策運営方針～」564.2KB</title>
+      <link>https://www.nochuri.co.jp/genba/pdf/focus20260807.pdf</link>
+      <description>編著者王雷軒（Wang Leixuan） のレポート（2026/08/07） [媒体: 媒体経済金融フォーカス]</description>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>経済金融フラッシュ26-27 「（中国）7月輸出は底堅さを維持する一方、消費者物価は低水準で推移」721.0KB</title>
+      <link>https://www.nochuri.co.jp/weekly/pdf/flash20260812-01.pdf</link>
+      <description>編著者王雷軒（Wang Leixuan） のレポート（2026/08/12） [媒体: 媒体経済金融フラッシュ]</description>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>経済金融フラッシュ26-28 「（米国）落ち着いているインフレ率」677.4KB</title>
+      <link>https://www.nochuri.co.jp/weekly/pdf/flash20260817.pdf</link>
+      <description>編著者佐古佳史 のレポート（2026/08/17） [媒体: 媒体経済金融フラッシュ]</description>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>経済金融フラッシュ26-29 「（中国）7月の生産・消費・投資はいずれも減速」673.3KB</title>
+      <link>https://www.nochuri.co.jp/weekly/pdf/flash20260818.pdf</link>
+      <description>編著者王雷軒（Wang Leixuan） のレポート（2026/08/18） [媒体: 媒体経済金融フラッシュ]</description>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>2026～27年度改訂経済見通し1.8MB</title>
+      <link>https://www.nochuri.co.jp/topics/pdf/topics20260821.pdf</link>
+      <description>編著者農林中金総合研究所リサーチ＆ソリューション第１部 のレポート（2026/08/21） [媒体: 媒体経済見通し]</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>内需の弱さが一段と鮮明になった中国経済～下半期は緩やかな回復に向かう見通し～781.8KB</title>
+      <link>https://www.nochuri.co.jp/report/pdf/watch2609_03.pdf</link>
+      <description>編著者王雷軒（Wang Leixuan） のレポート（2026/09/01） [媒体: 媒体経済金融ウォッチ]</description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>中間選挙前にインフレ鈍化の兆し～インフレ判断の難しさが垣間見えた7月FOMC 議事要旨～693.5KB</title>
+      <link>https://www.nochuri.co.jp/report/pdf/watch2609_02.pdf</link>
+      <description>編著者佐古佳史 のレポート（2026/09/01） [媒体: 媒体経済金融ウォッチ]</description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>4～6月期はプラス成長だが、民間最終需要は減少～日銀の利上げ前倒し観測高まる～778.0KB</title>
+      <link>https://www.nochuri.co.jp/report/pdf/watch2609_01.pdf</link>
+      <description>編著者南武志 のレポート（2026/09/01） [媒体: 媒体経済金融ウォッチ]</description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+  </channel>
+</rss>
