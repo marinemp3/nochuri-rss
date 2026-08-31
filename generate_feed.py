@@ -82,7 +82,16 @@ for row in report_rows:
     title_tag = cells[1].find('a')
     if not title_tag:
         continue
-    title = title_tag.get_text(strip=True)
+    
+    # ★★★ 修正ポイント1：タイトルからファイルサイズを除去 ★★★
+    full_title = title_tag.get_text(strip=True)
+    # ファイルサイズ（例：「712.0KB」「1.8MB」）を削除
+    # パターン：数字＋.（オプション）＋数字＋KB/MB/GB（末尾にあるもの）
+    title = re.sub(r'\s*[\d.]+(KB|MB|GB)\s*$', '', full_title).strip()
+    # もしタイトルが空になった場合は、元のタイトルを使う
+    if not title:
+        title = full_title
+    
     link = title_tag.get('href')
     if link and not link.startswith('http'):
         link = 'https://www.nochuri.co.jp' + link
@@ -132,7 +141,7 @@ for report in reports:
     fe.description(report['description'])
     fe.author(name=report['author'])
     
-    # ★★★ 修正ポイント：タイムゾーン情報（JST）を付与 ★★★
+    # タイムゾーン情報（JST）を付与
     pub_date_with_timezone = report['pub_date'].replace(tzinfo=JST)
     fe.pubDate(pub_date_with_timezone)
 
