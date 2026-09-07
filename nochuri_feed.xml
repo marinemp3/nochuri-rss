@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 06 Sep 2026 07:39:00 +0000</lastBuildDate>
-    <item>
-      <title>経済金融フォーカス26-03　「2026年7月の党中央政治局会議のポイント ～経済情勢判断と今後の政策運営方針～」</title>
-      <link>https://www.nochuri.co.jp/genba/pdf/focus20260807.pdf</link>
-      <description>編著者王雷軒（Wang Leixuan） のレポート（2026/08/07） [媒体: 媒体経済金融フォーカス]</description>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Mon, 07 Sep 2026 07:42:01 +0000</lastBuildDate>
     <item>
       <title>経済金融フラッシュ26-27 「（中国）7月輸出は底堅さを維持する一方、消費者物価は低水準で推移」</title>
       <link>https://www.nochuri.co.jp/weekly/pdf/flash20260812-01.pdf</link>
@@ -67,6 +61,12 @@
       <link>https://www.nochuri.co.jp/weekly/pdf/flash20260901.pdf</link>
       <description>編著者王雷軒（Wang Leixuan） のレポート（2026/09/01） [媒体: 媒体経済金融フラッシュ]</description>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>経済金融フラッシュ26-31 「（米国）底堅さが維持されている労働市場」</title>
+      <link>https://www.nochuri.co.jp/weekly/pdf/flash20260907.pdf</link>
+      <description>編著者佐古佳史 のレポート（2026/09/07） [媒体: 媒体経済金融フラッシュ]</description>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
