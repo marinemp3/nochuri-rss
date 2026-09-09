@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 08 Sep 2026 07:41:55 +0000</lastBuildDate>
-    <item>
-      <title>経済金融フラッシュ26-28 「（米国）落ち着いているインフレ率」</title>
-      <link>https://www.nochuri.co.jp/weekly/pdf/flash20260817.pdf</link>
-      <description>編著者佐古佳史 のレポート（2026/08/17） [媒体: 媒体経済金融フラッシュ]</description>
-      <pubDate>Mon, 17 Aug 2026 00:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Wed, 09 Sep 2026 07:41:21 +0000</lastBuildDate>
     <item>
       <title>経済金融フラッシュ26-29 「（中国）7月の生産・消費・投資はいずれも減速」</title>
       <link>https://www.nochuri.co.jp/weekly/pdf/flash20260818.pdf</link>
@@ -67,6 +61,12 @@
       <link>https://www.nochuri.co.jp/topics/pdf/topics20260908.pdf</link>
       <description>編著者農林中金総合研究所リサーチ＆ソリューション第１部 のレポート（2026/09/08） [媒体: 媒体経済見通し]</description>
       <pubDate>Tue, 08 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>経済金融フラッシュ26-32 「（中国）AI関連需要と自動車輸出で8月の輸出も底堅く推移」</title>
+      <link>https://www.nochuri.co.jp/weekly/pdf/flash20260909.pdf</link>
+      <description>編著者王雷軒（Wang Leixuan） のレポート（2026/09/09） [媒体: 媒体経済金融フラッシュ]</description>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
