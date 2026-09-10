@@ -7,31 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 09 Sep 2026 07:41:21 +0000</lastBuildDate>
-    <item>
-      <title>経済金融フラッシュ26-29 「（中国）7月の生産・消費・投資はいずれも減速」</title>
-      <link>https://www.nochuri.co.jp/weekly/pdf/flash20260818.pdf</link>
-      <description>編著者王雷軒（Wang Leixuan） のレポート（2026/08/18） [媒体: 媒体経済金融フラッシュ]</description>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>2026～27年度改訂経済見通し</title>
-      <link>https://www.nochuri.co.jp/topics/pdf/topics20260821.pdf</link>
-      <description>編著者農林中金総合研究所リサーチ＆ソリューション第１部 のレポート（2026/08/21） [媒体: 媒体経済見通し]</description>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>内需の弱さが一段と鮮明になった中国経済～下半期は緩やかな回復に向かう見通し～</title>
-      <link>https://www.nochuri.co.jp/report/pdf/watch2609_03.pdf</link>
-      <description>編著者王雷軒（Wang Leixuan） のレポート（2026/09/01） [媒体: 媒体経済金融ウォッチ]</description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>中間選挙前にインフレ鈍化の兆し～インフレ判断の難しさが垣間見えた7月FOMC 議事要旨～</title>
-      <link>https://www.nochuri.co.jp/report/pdf/watch2609_02.pdf</link>
-      <description>編著者佐古佳史 のレポート（2026/09/01） [媒体: 媒体経済金融ウォッチ]</description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Thu, 10 Sep 2026 06:23:46 +0000</lastBuildDate>
     <item>
       <title>4～6月期はプラス成長だが、民間最終需要は減少～日銀の利上げ前倒し観測高まる～</title>
       <link>https://www.nochuri.co.jp/report/pdf/watch2609_01.pdf</link>
@@ -67,6 +43,30 @@
       <link>https://www.nochuri.co.jp/weekly/pdf/flash20260909.pdf</link>
       <description>編著者王雷軒（Wang Leixuan） のレポート（2026/09/09） [媒体: 媒体経済金融フラッシュ]</description>
       <pubDate>Wed, 09 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>経済金融フラッシュ26-33 「（中国）8月のCPIとPPIの上昇率はいずれも加速」</title>
+      <link>https://www.nochuri.co.jp/weekly/pdf/flash20260910.pdf</link>
+      <description>編著者王雷軒（Wang Leixuan） のレポート（2026/09/10） [媒体: 媒体経済金融フラッシュ]</description>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>節約志向の高まりと食料品の消費税引下げの行方</title>
+      <link>https://www.nochuri.co.jp/report/pdf/nri2609re12.pdf</link>
+      <description>編著者古江晋也 のレポート（2026/09/10） [媒体: 媒体農中総研 調査と情報]</description>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>投資信託普及の現状とその背景</title>
+      <link>https://www.nochuri.co.jp/report/pdf/nri2609re11.pdf</link>
+      <description>編著者白須真由子 のレポート（2026/09/10） [媒体: 媒体農中総研 調査と情報]</description>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「アジア太平洋農業金融Toolkit」が示す小農金融の課題─制度整備と、その向こう側─</title>
+      <link>https://www.nochuri.co.jp/report/pdf/nri2609re9.pdf</link>
+      <description>編著者小畑秀樹 のレポート（2026/09/10） [媒体: 媒体農中総研 調査と情報]</description>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
