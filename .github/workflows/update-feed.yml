@@ -2,8 +2,14 @@ name: RSSフィードを自動更新
 
 on:
   schedule:
-    - cron: '30 7 * * *'
+    # 毎週金曜日 中国時間 13:30（UTC 5:30）
+    - cron: '30 5 * * 5'
   workflow_dispatch: # 手動実行も可能に
+
+# 権限を明示的に設定
+permissions:
+  contents: write
+  actions: write  # keepalive アクションが GitHub API を利用するために必要
 
 jobs:
   update:
@@ -11,6 +17,9 @@ jobs:
     steps:
       - name: コードを取得
         uses: actions/checkout@v4
+        with:
+          # rebase を安全に行うため全履歴を取得
+          fetch-depth: 0
       - name: Pythonをセットアップ
         uses: actions/setup-python@v5
         with:
@@ -26,4 +35,13 @@ jobs:
           git config --local user.name "GitHub Action"
           git add nochuri_feed.xml
           git commit -m "RSSフィードを自動更新 [skip ci]" || echo "変更なし"
+          # プッシュ前にリモートの変更を取り込む（競合回避）
+          git pull --rebase origin ${{ github.ref_name }}
           git push
+      # 60日間の無効化対策（keepalive）
+      - name: Keepalive（ワークフロー無効化防止）
+        if: always()
+        uses: entepotenz/keep-github-actions-alive-min-dependencies@v1
+        with:
+          COMMIT_MESSAGE: "Keepalive: ワークフロー無効化防止"
+          TIME_ELAPSED_THRESHOLD_IN_DAYS: 50
