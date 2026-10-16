@@ -7,25 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 09 Oct 2026 12:02:59 +0000</lastBuildDate>
-    <item>
-      <title>経済金融フラッシュ26-35 「（中国）内需は一段と低迷、既存政策の効果と追加の景気刺激策が焦点」</title>
-      <link>https://www.nochuri.co.jp/weekly/pdf/flash20260916.pdf</link>
-      <description>編著者王雷軒（Wang Leixuan） のレポート（2026/09/16） [媒体: 媒体経済金融フラッシュ]</description>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>経済金融フラッシュ26-36　「（日本）日銀短観9月調査の見通し」</title>
-      <link>https://www.nochuri.co.jp/weekly/pdf/flash20260917-01.pdf</link>
-      <description>編著者南武志 のレポート（2026/09/17） [媒体: 媒体経済金融フラッシュ]</description>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>経済金融フォーカス26-04 「9月FOMCにてFRBはタカ派に転換～26年内の追加利上げを示唆～」</title>
-      <link>https://www.nochuri.co.jp/genba/pdf/focus20260918.pdf</link>
-      <description>編著者佐古佳史 のレポート（2026/09/18） [媒体: 媒体経済金融フォーカス]</description>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Fri, 16 Oct 2026 10:03:12 +0000</lastBuildDate>
     <item>
       <title>経済金融フォーカス26-05　「中国金融機関への資本補充をめぐる最近の動向～金融機関のリスク耐性向上や信用拡大に向けた支援策～」</title>
       <link>https://www.nochuri.co.jp/genba/pdf/focus20260924.pdf</link>
@@ -67,6 +49,24 @@
       <link>https://www.nochuri.co.jp/weekly/pdf/flash20261005.pdf</link>
       <description>編著者佐古佳史 のレポート（2026/10/05） [媒体: 媒体経済金融フラッシュ]</description>
       <pubDate>Mon, 05 Oct 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>経済金融フラッシュ26-39 「（米国）利上げ継続を支持する内容となった9月消費者物価指数」</title>
+      <link>https://www.nochuri.co.jp/weekly/pdf/flash20261015-01.pdf</link>
+      <description>編著者佐古佳史 のレポート（2026/10/15） [媒体: 媒体経済金融フラッシュ]</description>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>経済金融フラッシュ26-40 「（中国）9月のCPIは低水準にとどまる一方、PPIは予想を上回る伸び」</title>
+      <link>https://www.nochuri.co.jp/weekly/pdf/flash20261015.pdf</link>
+      <description>編著者王雷軒（Wang Leixuan） のレポート（2026/10/15） [媒体: 媒体経済金融フラッシュ]</description>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>経済金融フラッシュ26-41 「（中国）9月の輸出は底堅く推移し、外需が景気を下支えする構図に変化なし」</title>
+      <link>https://www.nochuri.co.jp/weekly/pdf/flash20261016.pdf</link>
+      <description>編著者王雷軒（Wang Leixuan） のレポート（2026/10/16） [媒体: 媒体経済金融フラッシュ]</description>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
