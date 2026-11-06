@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 30 Oct 2026 11:31:49 +0000</lastBuildDate>
-    <item>
-      <title>経済金融フラッシュ26-38 「（米国）底堅さが続く労働市場」</title>
-      <link>https://www.nochuri.co.jp/weekly/pdf/flash20261005.pdf</link>
-      <description>編著者佐古佳史 のレポート（2026/10/05） [媒体: 媒体経済金融フラッシュ]</description>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Fri, 06 Nov 2026 13:09:27 +0000</lastBuildDate>
     <item>
       <title>経済金融フラッシュ26-39 「（米国）利上げ継続を支持する内容となった9月消費者物価指数」</title>
       <link>https://www.nochuri.co.jp/weekly/pdf/flash20261015-01.pdf</link>
@@ -67,6 +61,12 @@
       <link>https://www.nochuri.co.jp/weekly/pdf/flash20261030.pdf</link>
       <description>編著者南武志 のレポート（2026/10/30） [媒体: 媒体経済金融フラッシュ]</description>
       <pubDate>Fri, 30 Oct 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>経済金融フラッシュ26-44 「（中国）10月の企業マインドは再び悪化、景況感は市場予想を下回る」</title>
+      <link>https://www.nochuri.co.jp/weekly/pdf/flash20261104.pdf</link>
+      <description>編著者王雷軒（Wang Leixuan） のレポート（2026/11/04） [媒体: 媒体経済金融フラッシュ]</description>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
