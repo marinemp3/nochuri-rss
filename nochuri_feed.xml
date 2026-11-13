@@ -7,37 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 06 Nov 2026 13:09:27 +0000</lastBuildDate>
-    <item>
-      <title>経済金融フラッシュ26-39 「（米国）利上げ継続を支持する内容となった9月消費者物価指数」</title>
-      <link>https://www.nochuri.co.jp/weekly/pdf/flash20261015-01.pdf</link>
-      <description>編著者佐古佳史 のレポート（2026/10/15） [媒体: 媒体経済金融フラッシュ]</description>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>経済金融フラッシュ26-40 「（中国）9月のCPIは低水準にとどまる一方、PPIは予想を上回る伸び」</title>
-      <link>https://www.nochuri.co.jp/weekly/pdf/flash20261015.pdf</link>
-      <description>編著者王雷軒（Wang Leixuan） のレポート（2026/10/15） [媒体: 媒体経済金融フラッシュ]</description>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>経済金融フラッシュ26-41 「（中国）9月の輸出は底堅く推移し、外需が景気を下支えする構図に変化なし」</title>
-      <link>https://www.nochuri.co.jp/weekly/pdf/flash20261016.pdf</link>
-      <description>編著者王雷軒（Wang Leixuan） のレポート（2026/10/16） [媒体: 媒体経済金融フラッシュ]</description>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>経済金融フラッシュ26-42 「（中国）既存政策・追加景気刺激策の効果と輸出の堅調さを背景に年末にかけて景気は小幅加速が続く可能性が高い」</title>
-      <link>https://www.nochuri.co.jp/weekly/pdf/flash20261021.pdf</link>
-      <description>編著者王雷軒（Wang Leixuan） のレポート（2026/10/21） [媒体: 媒体経済金融フラッシュ]</description>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>緩やかな持ち直し基調に転じた中国経済～年末にかけて回復基調が続くと予想～</title>
-      <link>https://www.nochuri.co.jp/report/pdf/watch202611-03.pdf</link>
-      <description>編著者王雷軒（Wang Leixuan） のレポート（2026/11/01） [媒体: 媒体経済金融ウォッチ]</description>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Fri, 13 Nov 2026 13:21:17 +0000</lastBuildDate>
     <item>
       <title>利上げ継続を支持する経済状況～中間選挙は民主党優勢で最終盤へ～</title>
       <link>https://www.nochuri.co.jp/report/pdf/watch202611-02.pdf</link>
@@ -67,6 +37,36 @@
       <link>https://www.nochuri.co.jp/weekly/pdf/flash20261104.pdf</link>
       <description>編著者王雷軒（Wang Leixuan） のレポート（2026/11/04） [媒体: 媒体経済金融フラッシュ]</description>
       <pubDate>Wed, 04 Nov 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>経済金融フラッシュ26-45 「（米国）中間選挙前後の指標からは、景気の好調さが確認できた」</title>
+      <link>https://www.nochuri.co.jp/weekly/pdf/flash20261109.pdf</link>
+      <description>編著者佐古佳史 のレポート（2026/11/09） [媒体: 媒体経済金融フラッシュ]</description>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>経済金融フラッシュ26-46 「（中国）内需の弱さを背景に低位で推移する消費者物価と、海外要因で高止まりする生産者物価」</title>
+      <link>https://www.nochuri.co.jp/weekly/pdf/flash20261110.pdf</link>
+      <description>編著者王雷軒（Wang Leixuan） のレポート（2026/11/10） [媒体: 媒体経済金融フラッシュ]</description>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>長雨による物価上昇と食料品の消費税減税の行方</title>
+      <link>https://www.nochuri.co.jp/report/pdf/nri2611re8.pdf</link>
+      <description>編著者古江晋也 のレポート（2026/11/10） [媒体: 媒体農中総研 調査と情報]</description>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>経済金融フラッシュ26-48 「（中国）10月の輸出は鈍化も堅調さを維持、輸入は価格上昇で高い伸び」</title>
+      <link>https://www.nochuri.co.jp/weekly/pdf/flash20261111-02.pdf</link>
+      <description>編著者王雷軒（Wang Leixuan） のレポート（2026/11/11） [媒体: 媒体経済金融フラッシュ]</description>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>経済金融フラッシュ26-47 「（米国）高止まりが続く10月消費者物価指数」</title>
+      <link>https://www.nochuri.co.jp/weekly/pdf/flash20261111-01.pdf</link>
+      <description>編著者佐古佳史 のレポート（2026/11/11） [媒体: 媒体経済金融フラッシュ]</description>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
